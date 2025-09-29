@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROIECT REFACUT PAW", "PROIECT REFACUT PAW.csproj", "{BAD03DD3-6DC0-4423-8B8D-6439C5DCE993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD03DD3-6DC0-4423-8B8D-6439C5DCE993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD03DD3-6DC0-4423-8B8D-6439C5DCE993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD03DD3-6DC0-4423-8B8D-6439C5DCE993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD03DD3-6DC0-4423-8B8D-6439C5DCE993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B92CA4-5080-4489-8CE5-2F1042BDCD94}
+	EndGlobalSection
+EndGlobal
