@@ -7,7 +7,7 @@
     <ProjectGuid>{BAD03DD3-6DC0-4423-8B8D-6439C5DCE993}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>PROIECT_REFACUT_PAW</RootNamespace>
-    <AssemblyName>PROIECT REFACUT PAW</AssemblyName>
+    <AssemblyName>StudentsManagementSystem</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

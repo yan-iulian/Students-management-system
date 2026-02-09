@@ -35,12 +35,12 @@ Aplicația permite utilizatorului să efectueze următoarele operațiuni:
 1.  Se clonează acest repository sau se descarcă fișierele.
 2.  Se deschide fișierul `StudentsManagementSystem.sln` în Visual Studio.
 3.  Sau se rulează direct (fără compilare) :
-    * Se navighează în folderul: `PROIECT REFACUT PAW/bin/Debug/`
-    * Se deschide fișierul `PROIECT REFACUT PAW.exe`
+    * Se navighează în folderul: `Students management system/bin/Debug/`
+    * Se deschide fișierul `StudentsManagementSystem.exe`
 
 ## Structura Proiectului
 
 *   `ListaStudentiForm`: Fereastra principală a aplicației.
 *   `AddStudentForm` / `EditeazaStudentForm`: Formulare pentru manipularea datelor.
-*   `Entitati/`: Clasele de bază (Modelul), ex: `Student.cs`, `Disciplina.cs`.
-*   `Baza de date/`: Logica de acces la date.
+*   `Entities/`: Clasele de bază (Modelul), ex: `Student.cs`, `Disciplina.cs`.
+*   `DataBase/`: Logica de acces la date.
