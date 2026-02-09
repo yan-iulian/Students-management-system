@@ -224,11 +224,11 @@
     <Compile Include="AddStudentForm.Designer.cs">
       <DependentUpon>AddStudentForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Baza de date\FakeDataBase.cs" />
-    <Compile Include="Baza de date\FakeDataBaseCamine.cs" />
-    <Compile Include="Baza de date\FakeDataBaseProfesori.cs" />
-    <Compile Include="Baza de date\FakeDataBaseSali.cs" />
-    <Compile Include="Baza de date\RealBazaDeDateStudenti.cs" />
+    <Compile Include="DataBase\FakeDataBase.cs" />
+    <Compile Include="DataBase\FakeDataBaseCamine.cs" />
+    <Compile Include="DataBase\FakeDataBaseProfesori.cs" />
+    <Compile Include="DataBase\FakeDataBaseSali.cs" />
+    <Compile Include="DataBase\RealBazaDeDateStudenti.cs" />
     <Compile Include="DisciplineViewForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -241,9 +241,9 @@
     <Compile Include="EditeazaStudentForm.Designer.cs">
       <DependentUpon>EditeazaStudentForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Entitati\Disciplina.cs" />
-    <Compile Include="Baza de date\DisciplineDB.cs" />
-    <Compile Include="Entitati\Student.cs" />
+    <Compile Include="Entities\Disciplina.cs" />
+    <Compile Include="DataBase\DisciplineDB.cs" />
+    <Compile Include="Entities\Student.cs" />
     <Compile Include="ListaStudenti.cs">
       <SubType>Form</SubType>
     </Compile>

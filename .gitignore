@@ -1,0 +1,19 @@
+# Visual Studio common ignores
+.vs/
+
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Executables
+
+
+# Temporary files
+*.log
+*.tmp
+
+# Other
+Thumbs.db
+Desktop.ini
