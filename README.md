@@ -7,7 +7,7 @@ Acesta este o aplicație desktop dezvoltată în **C#** folosind **Windows Forms
 Aplicația permite utilizatorului să efectueze următoarele operațiuni:
 
 *   **Gestionarea Studenților**:
-    *   Vizualizarea listei complete de studenți într-un tabel interactiv.
+    *   **Vizualizarea** listei complete de studenți într-un tabel interactiv.
     *   **Adăugare**: Posibilitatea de a introduce noi studenți în baza de date.
     *   **Editare**: Modificarea informațiilor existente pentru un student.
     *   **Pagina Personală**: Vizualizarea detaliată a datelor unui student.
@@ -32,11 +32,11 @@ Aplicația permite utilizatorului să efectueze următoarele operațiuni:
 
 ## Cum se rulează proiectul
 
-1.  Clonează acest repository sau descarcă fișierele.
-2.  Deschide fișierul `StudentsManagementSystem.sln` în Visual Studio.
-3.  Rulare directă (fără compilare) : Se poate rula direct executabilul:
-    * Navighează în folderul: `PROIECT REFACUT PAW/bin/Debug/`
-    * Deschide fișierul `PROIECT REFACUT PAW.exe`
+1.  Se clonează acest repository sau se descarcă fișierele.
+2.  Se deschide fișierul `StudentsManagementSystem.sln` în Visual Studio.
+3.  Sau se rulează direct (fără compilare) :
+    * Se navighează în folderul: `PROIECT REFACUT PAW/bin/Debug/`
+    * Se deschide fișierul `PROIECT REFACUT PAW.exe`
 
 ## Structura Proiectului
 
